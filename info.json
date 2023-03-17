@@ -1,8 +1,9 @@
 {
     "title": "SetTempo",
     "id": "SetTempo",
-    "description": "Sets musical tempo from BPM",
+    "description": "Sets tempo from BPM",
     "version": "1.0.0",
     "type": "metadata",
     "author": "Thomas F Goodwin"
+    "icon": "SetTempo.svg"
 }
