@@ -1,5 +1,5 @@
 # SetTempo
-MediaMonkey script to set Tempo field from known BPM.
+MediaMonkey script to set Tempo field from known BPM. Note: this is not a BPM analyzer, you will need to set BPM tag with e.g. MixMiester BPM Analyzer or Mixed In Key
 
 Operates on selected files. Available from "Tools>Edit tags" and as toolbar button
 
