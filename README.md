@@ -1,7 +1,11 @@
 # SetTempo
 MediaMonkey script to set Tempo field from known BPM.
 
-Operates on selected files. Available from "Edit tags" menu.
+Operates on selected files. Available from "Tools>Edit tags" and as toolbar button
+
+# Installation
+Download and double-click SetTempo.mmip
+Toolbar button is available as "General:SetTempo:
 
 ## Breakpoints
 Largo <= 60
