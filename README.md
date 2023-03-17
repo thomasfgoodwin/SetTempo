@@ -3,6 +3,8 @@ MediaMonkey script to set Tempo field from known BPM.
 
 Operates on selected files. Available from "Tools>Edit tags" and as toolbar button
 
+Tested in MediaMonkey 5.0.4.2690
+
 ## Installation
 Download and double-click SetTempo.mmip .
 Toolbar button is available as "General:SetTempo"
@@ -17,4 +19,3 @@ Toolbar button is available as "General:SetTempo"
 - Presto <= 200
 - Prestissimo > 200
 
-Tested in MediaMonkey 5.0.4.2690
