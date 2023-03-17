@@ -5,7 +5,7 @@ Operates on selected files. Available from "Tools>Edit tags" and as toolbar butt
 
 # Installation
 Download and double-click SetTempo.mmip .
-Toolbar button is available as "General:SetTempo:
+Toolbar button is available as "General:SetTempo"
 
 ## Breakpoints
 Largo <= 60
